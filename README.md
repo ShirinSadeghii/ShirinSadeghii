@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShirinSadeghii
-- 👀 I’m interested in food, wine, workign out, interior design and taking occasional afternoon naps
+- 👀 I’m interested in food, wine, working out, interior design and taking occasional afternoon naps
 - 🌱 I’m currently learning front-end developement, including GitHub
 - 📫 Reach me by email or slack
 
