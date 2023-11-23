@@ -4,14 +4,11 @@
 - 📫 Reach me by Linkedin or email
 
 
-dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-  env:
-    # a github token is required to fetch the contribution calendar from github API
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-[example with cron job](https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L26-L33
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirinsadeghii&label=Profile%20views&color=0e75b6&style=flat" alt="shirinsadeghii" /> </p>
 
