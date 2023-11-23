@@ -4,7 +4,15 @@
 - 📫 Reach me by Linkedin or email
 
 
-uses: Platane/snk/svg-only@v3
+dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+  env:
+    # a github token is required to fetch the contribution calendar from github API
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+[example with cron job](https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L26-L33
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirinsadeghii&label=Profile%20views&color=0e75b6&style=flat" alt="shirinsadeghii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirinsadeghii" alt="shirinsadeghii" /></a></p>
