@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShirinSadeghii
 - 👀 I’m interested in food, wine, working out, interior design and taking occasional afternoon naps
-- 🌱 I’m currently learning front-end developement, including GitHub
-- 📫 Reach me by email or slack
+- 🌱 Refining my skills as a FullStack Developer
+- 📫 Reach me by Linkedin or email
 
 <!---
 ShirinSadeghii/ShirinSadeghii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
