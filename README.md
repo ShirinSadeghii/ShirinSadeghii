@@ -3,7 +3,8 @@
 - 🌱 Refining my skills as a FullStack Developer
 - 📫 Reach me by Linkedin or email
 
-- ![a random cat](images/snake-git.gif)
+<img alt="github-snake" src="https://raw.githubusercontent.com/shirinsadeghii/shirinsadeghii/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirinsadeghii&label=Profile%20views&color=0e75b6&style=flat" alt="shirinsadeghii" /> </p>
 
