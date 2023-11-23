@@ -3,9 +3,8 @@
 - 🌱 Refining my skills as a FullStack Developer
 - 📫 Reach me by Linkedin or email
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/shirinsadeghii/shirinsadeghii/output/github-contribution-grid-snake.svg" />
-</picture>
 
+uses: Platane/snk/svg-only@v3
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirinsadeghii&label=Profile%20views&color=0e75b6&style=flat" alt="shirinsadeghii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirinsadeghii" alt="shirinsadeghii" /></a></p>
