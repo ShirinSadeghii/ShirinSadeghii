@@ -3,7 +3,8 @@
 - 🌱 Refining my skills as a FullStack Developer
 - 📫 Reach me by Linkedin or email
 
-Languages & Tools:
+Languages and Tools:
+
 [![Languages & Tools](https://skillicons.dev/icons?i=aws,css,scss,html,react,js,figma&perline=10)](https://skillicons.dev)
 
 
