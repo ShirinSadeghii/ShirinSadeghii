@@ -5,7 +5,7 @@
 
 Languages and Tools:
 
-[![Languages & Tools](https://skillicons.dev/icons?i=aws,html,css,scss,react,js,nodejs,mysql,netlify, postman,figma,&perline=12)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=aws,html,css,scss,react,js,nodejs,mysql,netlify, postman,figma&perline=12)](https://skillicons.dev)
 
 
 <picture>
