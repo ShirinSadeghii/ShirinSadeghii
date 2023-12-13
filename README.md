@@ -3,6 +3,8 @@
 - 🌱 Refining my skills as a FullStack Developer
 - 📫 Reach me by Linkedin or email
 
+- [![Languages & Tools](https://skillicons.dev/icons?i=aws,css3,scss,html5,react,js,figma&perline=10)](https://skillicons.dev)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
