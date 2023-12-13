@@ -1,7 +1,6 @@
 About me:
 - 👋 Hi, I’m @ShirinSadeghii
-- 👀 I’m interested in food, wine, working out, interior design and taking occasional afternoon naps
-- 🌱 Refining my skills as a FullStack Developer
+- 🌱 FullStack Software Developer 
 - 📫 Reach me by Linkedin or email
 
 Languages and Tools:
