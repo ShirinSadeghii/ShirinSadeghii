@@ -1,9 +1,11 @@
-#About me:
-- 👋 Hi, I’m @ShirinSadeghii
-- 🌱 FullStack Software Developer 
-- 📫 Reach me by Linkedin or email
+# 👋 Hi, I’m Shirin Sadeghi
 
-Languages and Tools:
+### **About me:**
+- 🌱 FullStack Software Developer
+- Proficient in HTML, CSS/SASS, React, JavaScript, SQL, Express, RESTful APIs
+- 📫 Reach me by Linkedin [Click here](https://www.linkedin.com/in/shirinsadeghi/)
+
+### **Languages and Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=aws,html,css,scss,js,react,nodejs,express,mysql,netlify,postman,figma&perline=6&theme=light)](https://skillicons.dev)
 
