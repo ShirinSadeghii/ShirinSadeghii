@@ -1,4 +1,4 @@
-About me:
+#About me:
 - 👋 Hi, I’m @ShirinSadeghii
 - 🌱 FullStack Software Developer 
 - 📫 Reach me by Linkedin or email
