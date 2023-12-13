@@ -6,7 +6,7 @@
 Languages and Tools:
 
 (https://skillicons.dev/icons?i=aws,html,css,scss,react,js,nodejs,mysql,netlify, postman,figma&perline=12)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,html,css,scss,js,react,nodejs,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,html,css,scss,js,react,nodejs,mysql,netlify,postman,figma&perline=6)](https://skillicons.dev)
 
 
 <picture>
